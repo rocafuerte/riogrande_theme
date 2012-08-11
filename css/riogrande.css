@@ -15,6 +15,7 @@ html {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/git\/riogrande\/sites\/all\/themes\/riogrande_theme\/sass\/riogrande\.scss}line{font-family:\0000311}}
 header {
   list-style-type: none;
+  margin-top: 1em;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/typography\/lists\/_inline-list\.scss}line{font-family:\000035}}
 header, header li {
@@ -27,7 +28,25 @@ header #branding {
   float: left;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/git\/riogrande\/sites\/all\/themes\/riogrande_theme\/sass\/riogrande\.scss}line{font-family:\0000318}}
+header #logo {
+  padding: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/git\/riogrande\/sites\/all\/themes\/riogrande_theme\/sass\/riogrande\.scss}line{font-family:\0000320}}
+header #logo a {
+  float: left;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/git\/riogrande\/sites\/all\/themes\/riogrande_theme\/sass\/riogrande\.scss}line{font-family:\0000325}}
+header nav {
+  float: left;
+  margin-bottom: 0 !important;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/git\/riogrande\/sites\/all\/themes\/riogrande_theme\/sass\/riogrande\.scss}line{font-family:\0000330}}
 header .block-content ul {
   margin: 0;
   padding: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/git\/riogrande\/sites\/all\/themes\/riogrande_theme\/sass\/riogrande\.scss}line{font-family:\0000334}}
+header .block-content ul li a {
+  line-height: 55px;
+  padding: 0 15px;
 }
