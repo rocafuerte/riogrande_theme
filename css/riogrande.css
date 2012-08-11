@@ -1,0 +1,33 @@
+/* Variables */
+/* General includes */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/typography\/_vertical_rhythm\.scss}line{font-family:\0000361}}
+* html {
+  font-size: 100%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/typography\/_vertical_rhythm\.scss}line{font-family:\0000364}}
+html {
+  font-size: 16px;
+  line-height: 1.5em;
+}
+
+/* Header */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/git\/riogrande\/sites\/all\/themes\/riogrande_theme\/sass\/riogrande\.scss}line{font-family:\0000311}}
+header {
+  list-style-type: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/typography\/lists\/_inline-list\.scss}line{font-family:\000035}}
+header, header li {
+  margin: 0px;
+  padding: 0px;
+  display: inline;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/git\/riogrande\/sites\/all\/themes\/riogrande_theme\/sass\/riogrande\.scss}line{font-family:\0000314}}
+header #branding {
+  float: left;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Applications\/MAMP\/htdocs\/git\/riogrande\/sites\/all\/themes\/riogrande_theme\/sass\/riogrande\.scss}line{font-family:\0000318}}
+header .block-content ul {
+  margin: 0;
+  padding: 0;
+}
